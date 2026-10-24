@@ -1,0 +1,12 @@
+
+{
+  "id": "cat.narezany.goldcheck",
+  "name": "Gold Checkmark",
+  "name_ru": "Золотая галочка",
+  "version": "1.0.0",
+  "author": "NIFY",
+  "description": "Adds a gold checkmark to the active account name.",
+  "description_ru": "Добавляет золотую галочку к имени активного аккаунта.",
+  "entry": "cat.narezany.goldcheck.GoldCheckmark",
+  "min_api": 4
+}
